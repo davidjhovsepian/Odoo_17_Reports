@@ -1,0 +1,308 @@
+2024-02-15 14:46:57,217 21052 INFO ? odoo: Odoo version 17.0-20240215 
+2024-02-15 14:46:57,217 21052 INFO ? odoo: Using configuration file at C:\Users\David\OneDrive\Desktop\Odoo 17\server\odoo.conf 
+2024-02-15 14:46:57,217 21052 INFO ? odoo: addons paths: ['C:\\Users\\David\\OneDrive\\Desktop\\Odoo 17\\server\\odoo\\addons', 'c:\\users\\david\\onedrive\\desktop\\odoo 17\\sessions\\addons\\17.0', 'c:\\users\\david\\onedrive\\desktop\\odoo 17\\server\\odoo\\addons'] 
+2024-02-15 14:46:57,217 21052 INFO ? odoo: database: openpg@localhost:5432 
+2024-02-15 14:46:58,831 21052 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\David\OneDrive\Desktop\Odoo 17\thirdparty\wkhtmltopdf.exe 
+2024-02-15 14:46:59,600 21052 INFO ? odoo.service.server: Initiating shutdown 
+2024-02-15 14:46:59,600 21052 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-02-15 14:47:08,602 14848 INFO ? odoo: Odoo version 17.0-20240215 
+2024-02-15 14:47:08,602 14848 INFO ? odoo: Using configuration file at C:\Users\David\OneDrive\Desktop\Odoo 17\server\odoo.conf 
+2024-02-15 14:47:08,602 14848 INFO ? odoo: addons paths: ['C:\\Users\\David\\OneDrive\\Desktop\\Odoo 17\\server\\odoo\\addons', 'c:\\users\\david\\onedrive\\desktop\\odoo 17\\sessions\\addons\\17.0', 'c:\\users\\david\\onedrive\\desktop\\odoo 17\\server\\odoo\\addons'] 
+2024-02-15 14:47:08,602 14848 INFO ? odoo: database: openpg@localhost:5432 
+2024-02-15 14:47:08,732 14848 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\David\OneDrive\Desktop\Odoo 17\thirdparty\wkhtmltopdf.exe 
+2024-02-15 14:47:08,949 14848 INFO ? odoo.service.server: HTTP service (werkzeug) running on QpetNB2023.fritz.box:8069 
+2024-02-15 14:47:13,010 14848 INFO ? odoo.sql_db: Connection to the database failed 
+2024-02-15 14:47:17,071 14848 INFO ? odoo.sql_db: Connection to the database failed 
+2024-02-15 14:52:59,444 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:52:59] "GET / HTTP/1.1" 303 - 1 0.007 0.070
+2024-02-15 14:52:59,648 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:52:59] "GET /web HTTP/1.1" 303 - 2 0.005 0.043
+2024-02-15 14:53:00,763 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:00] "GET /web/database/selector HTTP/1.1" 200 - 2 0.003 1.109
+2024-02-15 14:53:01,333 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 1 0.002 0.238
+2024-02-15 14:53:01,335 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 1 0.001 0.240
+2024-02-15 14:53:01,336 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 1 0.002 0.239
+2024-02-15 14:53:01,337 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 1 0.002 0.240
+2024-02-15 14:53:01,337 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/js/dist/dom/manipulator.js HTTP/1.1" 200 - 1 0.002 0.238
+2024-02-15 14:53:01,338 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 1 0.001 0.240
+2024-02-15 14:53:01,739 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 1 0.002 0.096
+2024-02-15 14:53:01,739 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 1 0.002 0.096
+2024-02-15 14:53:01,739 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 1 0.002 0.094
+2024-02-15 14:53:01,741 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:01] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 1 0.002 0.082
+2024-02-15 14:53:02,210 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:02] "GET /web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - 1 0.002 0.023
+2024-02-15 14:53:02,584 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:53:02] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 1 0.003 0.130
+2024-02-15 14:54:15,053 14848 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "C:\Users\David\OneDrive\Desktop\Odoo 17\server\odoo\addons\web\controllers\database.py", line 78, in create
+    raise Exception(_('Houston, we have a database naming issue! Make sure you only use letters, numbers, underscores, hyphens, or dots in the database name, and you\'ll be golden.'))
+Exception: Houston, we have a database naming issue! Make sure you only use letters, numbers, underscores, hyphens, or dots in the database name, and you'll be golden.
+2024-02-15 14:54:15,547 14848 INFO None werkzeug: 127.0.0.1 - - [15/Feb/2024 14:54:15] "POST /web/database/create HTTP/1.1" 200 - 2 0.003 1.932
+2024-02-15 14:54:48,717 14848 INFO None odoo.service.db: Create database `Davids_Test_Database`. 
+2024-02-15 14:54:49,828 14848 INFO Davids_Test_Database odoo.modules.loading: loading 1 modules... 
+2024-02-15 14:54:49,829 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module base (1/1) 
+2024-02-15 14:54:49,848 14848 INFO Davids_Test_Database odoo.modules.registry: module base: creating or updating database tables 
+2024-02-15 14:54:50,277 14848 INFO Davids_Test_Database odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2024-02-15 14:54:50,277 14848 INFO Davids_Test_Database odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2024-02-15 14:54:50,277 14848 INFO Davids_Test_Database odoo.models: Prepare computation of ir.module.module.views_by_module 
+2024-02-15 14:54:50,437 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.partner.user_id 
+2024-02-15 14:54:50,437 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2024-02-15 14:54:50,437 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.partner.complete_name 
+2024-02-15 14:54:50,437 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.partner.company_registry 
+2024-02-15 14:54:50,437 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.partner.commercial_company_name 
+2024-02-15 14:54:50,437 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.partner.partner_share 
+2024-02-15 14:54:50,498 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.currency.decimal_places 
+2024-02-15 14:54:50,547 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.company.uses_default_logo 
+2024-02-15 14:54:50,547 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.company.logo_web 
+2024-02-15 14:54:50,551 14848 INFO Davids_Test_Database odoo.models: Computing parent_path for table res_company... 
+2024-02-15 14:54:50,609 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.users.signature 
+2024-02-15 14:54:50,609 14848 INFO Davids_Test_Database odoo.models: Prepare computation of res.users.share 
+2024-02-15 14:54:52,343 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_bank.xml 
+2024-02-15 14:54:52,349 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res.lang.csv 
+2024-02-15 14:54:52,392 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-02-15 14:54:52,417 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-02-15 14:54:52,471 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-02-15 14:54:52,916 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-02-15 14:54:52,924 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-02-15 14:54:53,902 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-02-15 14:54:53,913 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-02-15 14:54:54,332 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-02-15 14:54:54,343 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/security/base_groups.xml 
+2024-02-15 14:54:54,584 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/security/base_security.xml 
+2024-02-15 14:54:54,735 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/base_menus.xml 
+2024-02-15 14:54:54,802 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-02-15 14:54:54,816 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-02-15 14:54:54,823 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-02-15 14:54:55,336 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-02-15 14:54:55,456 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-02-15 14:54:55,478 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-02-15 14:54:55,496 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-02-15 14:54:55,535 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-02-15 14:54:55,558 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-02-15 14:54:55,580 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-02-15 14:54:55,599 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-02-15 14:54:55,733 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-02-15 14:54:55,750 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-02-15 14:54:55,773 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-02-15 14:54:55,789 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-02-15 14:54:55,806 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-02-15 14:54:55,850 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-02-15 14:54:55,870 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-02-15 14:54:55,882 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-02-15 14:54:55,888 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-02-15 14:54:55,894 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-02-15 14:54:55,911 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-02-15 14:54:55,921 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-02-15 14:54:55,963 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-02-15 14:54:56,022 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-02-15 14:54:56,077 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-02-15 14:54:56,082 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-02-15 14:54:56,086 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-02-15 14:54:56,097 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-02-15 14:54:56,107 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-02-15 14:54:56,117 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-02-15 14:54:56,134 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-02-15 14:54:56,139 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-02-15 14:54:56,150 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-02-15 14:54:56,163 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-02-15 14:54:56,175 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-02-15 14:54:56,193 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-02-15 14:54:56,210 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-02-15 14:54:56,227 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-02-15 14:54:56,316 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-02-15 14:54:56,342 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-02-15 14:54:56,374 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-02-15 14:54:56,403 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-02-15 14:54:56,490 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2024-02-15 14:54:56,499 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-02-15 14:54:56,514 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-02-15 14:54:56,520 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-02-15 14:54:56,542 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-02-15 14:54:56,647 14848 INFO Davids_Test_Database odoo.modules.loading: Module base: loading demo 
+2024-02-15 14:54:56,647 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_users_demo.xml 
+2024-02-15 14:54:58,233 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2024-02-15 14:54:58,238 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_currency_demo.xml 
+2024-02-15 14:54:58,243 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2024-02-15 14:54:58,438 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2024-02-15 14:54:58,442 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2024-02-15 14:54:58,635 14848 INFO Davids_Test_Database odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2024-02-15 14:54:59,258 14848 INFO Davids_Test_Database odoo.modules.loading: Module base loaded in 9.43s, 9064 queries (+9064 other) 
+2024-02-15 14:54:59,260 14848 INFO Davids_Test_Database odoo.modules.loading: 1 modules loaded in 9.43s, 9064 queries (+9064 extra) 
+2024-02-15 14:54:59,304 14848 INFO Davids_Test_Database odoo.modules.loading: updating modules list 
+2024-02-15 14:54:59,305 14848 INFO Davids_Test_Database odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2024-02-15 14:54:59,849 14848 INFO Davids_Test_Database odoo.modules.loading: loading 11 modules... 
+2024-02-15 14:54:59,849 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module web (2/11) 
+2024-02-15 14:54:59,866 14848 INFO Davids_Test_Database odoo.modules.registry: module web: creating or updating database tables 
+2024-02-15 14:55:00,364 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-02-15 14:55:00,380 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-02-15 14:55:00,434 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/views/report_templates.xml 
+2024-02-15 14:55:00,504 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-02-15 14:55:00,517 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/views/partner_view.xml 
+2024-02-15 14:55:00,523 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-02-15 14:55:00,527 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/views/neutralize_views.xml 
+2024-02-15 14:55:00,532 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/data/ir_attachment.xml 
+2024-02-15 14:55:00,537 14848 INFO Davids_Test_Database odoo.modules.loading: loading web/data/report_layout.xml 
+2024-02-15 14:55:00,578 14848 INFO Davids_Test_Database odoo.modules.loading: Module web loaded in 0.73s, 941 queries (+941 other) 
+2024-02-15 14:55:00,578 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module auth_totp (3/11) 
+2024-02-15 14:55:00,633 14848 INFO Davids_Test_Database odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-02-15 14:55:00,698 14848 INFO Davids_Test_Database odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-02-15 14:55:00,724 14848 INFO Davids_Test_Database odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-02-15 14:55:00,731 14848 INFO Davids_Test_Database odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-02-15 14:55:00,738 14848 INFO Davids_Test_Database odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-02-15 14:55:00,759 14848 INFO Davids_Test_Database odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-02-15 14:55:00,764 14848 INFO Davids_Test_Database odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-02-15 14:55:00,781 14848 INFO Davids_Test_Database odoo.modules.loading: Module auth_totp loaded in 0.20s, 177 queries (+177 other) 
+2024-02-15 14:55:00,781 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module base_import (4/11) 
+2024-02-15 14:55:00,822 14848 INFO Davids_Test_Database odoo.modules.registry: module base_import: creating or updating database tables 
+2024-02-15 14:55:01,293 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-02-15 14:55:01,322 14848 INFO Davids_Test_Database odoo.modules.loading: Module base_import loaded in 0.54s, 753 queries (+753 other) 
+2024-02-15 14:55:01,323 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module base_import_module (5/11) 
+2024-02-15 14:55:01,374 14848 INFO Davids_Test_Database odoo.modules.registry: module base_import_module: creating or updating database tables 
+2024-02-15 14:55:01,503 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2024-02-15 14:55:01,512 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2024-02-15 14:55:01,527 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2024-02-15 14:55:01,561 14848 INFO Davids_Test_Database odoo.modules.loading: Module base_import_module loaded in 0.24s, 142 queries (+142 other) 
+2024-02-15 14:55:01,563 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module base_setup (6/11) 
+2024-02-15 14:55:01,588 14848 INFO Davids_Test_Database odoo.modules.registry: module base_setup: creating or updating database tables 
+2024-02-15 14:55:01,633 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2024-02-15 14:55:01,637 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2024-02-15 14:55:01,659 14848 INFO Davids_Test_Database odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2024-02-15 14:55:01,675 14848 INFO Davids_Test_Database odoo.modules.loading: Module base_setup loaded in 0.11s, 137 queries (+137 other) 
+2024-02-15 14:55:01,675 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module bus (7/11) 
+2024-02-15 14:55:01,724 14848 INFO Davids_Test_Database odoo.modules.registry: module bus: creating or updating database tables 
+2024-02-15 14:55:01,791 14848 INFO Davids_Test_Database odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-02-15 14:55:01,806 14848 INFO Davids_Test_Database odoo.modules.loading: Module bus loaded in 0.13s, 107 queries (+107 other) 
+2024-02-15 14:55:01,806 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module web_tour (8/11) 
+2024-02-15 14:55:01,827 14848 INFO Davids_Test_Database odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-02-15 14:55:01,855 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-02-15 14:55:01,863 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-02-15 14:55:01,870 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-02-15 14:55:01,895 14848 INFO Davids_Test_Database odoo.modules.loading: Module web_tour loaded in 0.09s, 104 queries (+104 other) 
+2024-02-15 14:55:01,895 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module iap (9/11) 
+2024-02-15 14:55:01,923 14848 INFO Davids_Test_Database odoo.modules.registry: module iap: creating or updating database tables 
+2024-02-15 14:55:01,989 14848 INFO Davids_Test_Database odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2024-02-15 14:55:01,997 14848 INFO Davids_Test_Database odoo.modules.loading: loading iap/security/ir_rule.xml 
+2024-02-15 14:55:02,004 14848 INFO Davids_Test_Database odoo.modules.loading: loading iap/views/iap_views.xml 
+2024-02-15 14:55:02,024 14848 INFO Davids_Test_Database odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2024-02-15 14:55:02,046 14848 INFO Davids_Test_Database odoo.modules.loading: Module iap loaded in 0.15s, 151 queries (+151 other) 
+2024-02-15 14:55:02,046 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module web_editor (10/11) 
+2024-02-15 14:55:02,145 14848 INFO Davids_Test_Database odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-02-15 14:55:02,707 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-02-15 14:55:02,715 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-02-15 14:55:02,720 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-02-15 14:55:02,730 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-02-15 14:55:02,775 14848 INFO Davids_Test_Database odoo.modules.loading: Module web_editor loaded in 0.73s, 859 queries (+859 other) 
+2024-02-15 14:55:02,776 14848 INFO Davids_Test_Database odoo.modules.loading: Loading module web_unsplash (11/11) 
+2024-02-15 14:55:02,807 14848 INFO Davids_Test_Database odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2024-02-15 14:55:02,847 14848 INFO Davids_Test_Database odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2024-02-15 14:55:02,871 14848 INFO Davids_Test_Database odoo.modules.loading: Module web_unsplash loaded in 0.10s, 93 queries (+93 other) 
+2024-02-15 14:55:02,871 14848 INFO Davids_Test_Database odoo.modules.loading: 11 modules loaded in 3.02s, 3464 queries (+3464 extra) 
+2024-02-15 14:55:03,074 14848 INFO Davids_Test_Database odoo.modules.loading: Modules loaded. 
+2024-02-15 14:55:03,077 14848 INFO Davids_Test_Database odoo.modules.registry: Registry loaded in 13.263s 
+2024-02-15 14:55:04,042 14848 INFO Davids_Test_Database odoo.addons.base.models.res_users: Login successful for db:Davids_Test_Database login:d.h@qchefsdental.de from 127.0.0.1 
+2024-02-15 14:55:04,048 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:04] "POST /web/database/create HTTP/1.1" 303 - 17981 7.321 9.139
+2024-02-15 14:55:04,059 14848 INFO Davids_Test_Database odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-02-15 14:55:04,083 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:04] "GET /web HTTP/1.1" 303 - 9 0.003 0.028
+2024-02-15 14:55:04,585 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:04] "GET /web/login HTTP/1.1" 200 - 53 0.018 0.171
+2024-02-15 14:55:10,722 14848 INFO Davids_Test_Database odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/96d6aac/web.assets_frontend.min.css (id:188) 
+2024-02-15 14:55:10,756 14848 INFO Davids_Test_Database odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/41a56cd/web.assets_frontend_minimal.min.js (id:189) 
+2024-02-15 14:55:10,766 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:10] "GET /web/assets/96d6aac/web.assets_frontend.min.css HTTP/1.1" 200 - 15 0.039 6.065
+2024-02-15 14:55:10,773 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:10] "GET /web/binary/company_logo HTTP/1.1" 200 - 5 0.028 0.121
+2024-02-15 14:55:10,777 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:10] "GET /web/assets/41a56cd/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 12 0.031 0.109
+2024-02-15 14:55:11,464 14848 INFO Davids_Test_Database odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/1341e1a/web.assets_frontend_lazy.min.js (id:190) 
+2024-02-15 14:55:11,613 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:11] "GET /web/assets/1341e1a/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 12 0.011 0.784
+2024-02-15 14:55:12,009 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:12] "GET /web/webclient/translations/1708008911679 HTTP/1.1" 200 - 7 0.007 0.012
+2024-02-15 14:55:18,850 14848 INFO Davids_Test_Database odoo.addons.base.models.res_users: Login successful for db:Davids_Test_Database login:d.h@qchefsdental.de from 127.0.0.1 
+2024-02-15 14:55:18,856 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:18] "POST /web/login HTTP/1.1" 303 - 29 0.016 0.391
+2024-02-15 14:55:19,062 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:19] "GET /web HTTP/1.1" 200 - 62 0.028 0.175
+2024-02-15 14:55:19,381 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:19] "GET /web/webclient/load_menus/172bef6a7af96680ac3a6d836ca7e789cae2e213afe9556bbb3468597f3484c3 HTTP/1.1" 200 - 1 0.000 0.005
+2024-02-15 14:55:19,389 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:19] "GET /web/webclient/translations/c097a4426362f8e75854b784c5418b565eb85939?lang=en_US HTTP/1.1" 200 - 3 0.008 0.005
+2024-02-15 14:55:27,852 14848 INFO Davids_Test_Database odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/ad30a75/web.assets_web.min.css (id:191) 
+2024-02-15 14:55:27,913 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:27] "GET /web/assets/ad30a75/web.assets_web.min.css HTTP/1.1" 200 - 12 0.039 8.498
+2024-02-15 14:55:28,886 14848 INFO Davids_Test_Database odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/94881fd/web.assets_web.min.js (id:192) 
+2024-02-15 14:55:29,351 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /web/assets/94881fd/web.assets_web.min.js HTTP/1.1" 200 - 11 0.005 9.971
+2024-02-15 14:55:29,527 14848 INFO Davids_Test_Database odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/2659e08/bus.websocket_worker_assets.min.js (id:193) 
+2024-02-15 14:55:29,540 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /bus/websocket_worker_bundle?v=1.0.7 HTTP/1.1" 200 - 8 0.003 0.026
+2024-02-15 14:55:29,833 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2 HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:29,846 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "POST /web/action/load HTTP/1.1" 200 - 9 0.004 0.009
+2024-02-15 14:55:29,846 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /web/manifest.webmanifest HTTP/1.1" 200 - 7 0.007 0.005
+2024-02-15 14:55:29,852 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /web/service-worker.js HTTP/1.1" 200 - 1 0.001 0.003
+2024-02-15 14:55:29,863 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.008
+2024-02-15 14:55:29,869 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:29] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 9 0.008 0.014
+2024-02-15 14:55:29,869 14848 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2024-02-15 14:55:30,162 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "GET /web/static/img/odoo-icon-192x192.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-02-15 14:55:30,183 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "GET /web/offline HTTP/1.1" 200 - 6 0.003 0.016
+2024-02-15 14:55:30,238 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 47 0.023 0.036
+2024-02-15 14:55:30,567 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.000 0.003
+2024-02-15 14:55:30,587 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.011 0.013
+2024-02-15 14:55:30,602 14848 INFO Davids_Test_Database werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.003 0.033
+2024-02-15 14:55:30,816 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:30] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:31,050 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /purchase/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,050 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /base/static/img/icons/industry_fsm.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,051 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,052 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,053 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:31,126 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-02-15 14:55:31,368 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,368 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /mrp/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,369 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /base/static/img/icons/knowledge.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,369 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:31,370 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /project/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:31,441 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /hr/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:31,678 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /data_recycle/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,678 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:31,680 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:31,680 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,681 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,753 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /pos_restaurant/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:31,991 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /account/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,992 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /crm/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:31,992 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:31,992 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /website/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:31,994 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:31] "GET /stock/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,067 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-02-15 14:55:32,318 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,319 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,319 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,320 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,321 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/planning.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,378 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /website_event/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:32,649 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /contacts/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,649 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /mail/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,650 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/mrp_plm.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:32,650 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /calendar/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,651 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/social.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:32,691 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/hr_appraisal.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-02-15 14:55:32,976 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /fleet/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:32,976 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/marketing_automation.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:32,976 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /im_livechat/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,977 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /base/static/img/icons/appointment.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:32,978 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:32] "GET /survey/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:33,002 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /base/static/img/icons/web_mobile.png HTTP/1.1" 200 - 0 0.000 0.001
+2024-02-15 14:55:33,285 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /repair/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:33,286 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /mass_mailing_sms/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:33,286 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /hr_attendance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:33,287 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /base/static/img/icons/stock_barcode.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:33,287 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /project_todo/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:33,314 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /hr_skills/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:33,592 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /base/static/img/icons/voip.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 14:55:33,596 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /website_hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.003
+2024-02-15 14:55:33,597 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /lunch/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2024-02-15 14:55:33,597 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /base/static/img/icons/sale_amazon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:33,597 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /base/static/img/icons/sale_ebay.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-02-15 14:55:33,624 14848 INFO ? werkzeug: 127.0.0.1 - - [15/Feb/2024 14:55:33] "GET /hr_contract/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-02-15 15:12:23,466 14848 ERROR ? odoo.addons.bus.models.bus: Bus.loop error, sleep and retry 
+Traceback (most recent call last):
+  File "C:\Users\David\OneDrive\Desktop\Odoo 17\server\odoo\addons\bus\models\bus.py", line 183, in run
+    self.loop()
+  File "C:\Users\David\OneDrive\Desktop\Odoo 17\server\odoo\addons\bus\models\bus.py", line 168, in loop
+    conn.poll()
+psycopg2.OperationalError: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2024-02-15 15:12:23,497 14848 INFO ? odoo.service.server: Initiating shutdown 
+2024-02-15 15:12:23,497 14848 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-02-15 15:12:23,954 14848 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 5 connections  
+2024-02-15 15:13:00,335 5104 INFO ? odoo: Odoo version 17.0-20240215 
+2024-02-15 15:13:00,335 5104 INFO ? odoo: Using configuration file at C:\Users\David\OneDrive\Desktop\Odoo 17\server\odoo.conf 
+2024-02-15 15:13:00,335 5104 INFO ? odoo: addons paths: ['C:\\Users\\David\\OneDrive\\Desktop\\Odoo 17\\server\\odoo\\addons', 'c:\\users\\david\\onedrive\\desktop\\odoo 17\\sessions\\addons\\17.0', 'c:\\users\\david\\onedrive\\desktop\\odoo 17\\server\\odoo\\addons'] 
+2024-02-15 15:13:00,335 5104 INFO ? odoo: database: openpg@localhost:5432 
+2024-02-15 15:13:00,747 5104 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\David\OneDrive\Desktop\Odoo 17\thirdparty\wkhtmltopdf.exe 
+2024-02-15 15:13:01,313 5104 INFO ? odoo.service.server: HTTP service (werkzeug) running on QpetNB2023.fritz.box:8069 
